@@ -4,4 +4,4 @@
 
 They all begin at `1.0.0`. If a project is released in an early state, it will start at `pre-1.0.0`, then the number will be reset to `1.0.0` on the full release.
 
-<sub>_So far, I have had no reason to implement Nightly Builds, but if I ever do, then `pre-n#.#.#` will probably be what I use for them. (Also considering `pre-n.#.#.#` or `pre-N-#.#.#`. Whichever I choose will be consistent between ALL of my programs.)_</sub>
+<sub>_So far, I have had no reason to implement Nightly Builds, but if I ever do, then `n#.#.#` will probably be what I use for them. (Also considering `n-#.#.#` or `N-#.#.#`. Whichever I choose will be consistent between ALL of my programs.)_</sub>
