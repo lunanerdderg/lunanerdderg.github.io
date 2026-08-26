@@ -1,1 +1,3 @@
-I will never knowingly use A.I.-generated code in any of my programs. I am very against the use of A.I.
+I will never knowingly use AI-generated code in any of my programs. I am very against the use of AI.
+
+Because of how pervasive it is, I may have to make use of dependencies which unfortunately contain AI-generated code. I will avoid this as much as possible, but it's probably inevitable.
