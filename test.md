@@ -1,6 +1,6 @@
 * You retain the copyright notice and disclaimer
-<sub><details>
-  <summary>(Expand notice + Disclaimer)</</summary>
+<details>
+  <summary><sub>(Expand notice + Disclaimer)</sub></summary>
   
 ```
 Copyright (c) [year] lunanerdderg
@@ -19,6 +19,6 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 ```
 
-</details></sub>
+</details>
 
 * You do not use my name to endorse or promote anything without my permission
