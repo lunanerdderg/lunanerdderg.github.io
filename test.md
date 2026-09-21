@@ -1,6 +1,8 @@
 * You retain the copyright notice and disclaimer
+<sub>
+
 <details>
-  <sub><summary>(Expand notice + Disclaimer)</summary></sub>
+  <summary>(Expand notice + Disclaimer)</summary>
   
 ```
 Copyright (c) [year] lunanerdderg
@@ -20,5 +22,7 @@ POSSIBILITY OF SUCH DAMAGE.
 ```
 
 </details>
+
+</sub>
 
 * You do not use my name to endorse or promote anything without my permission
