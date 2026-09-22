@@ -11,7 +11,7 @@ You may view the GNU General Public License v3.0 [here](), but the TL;DR is that
   <summary>(Expand notice + Warranty)</summary>
   
 ```
-[program] Copyright (C) [year]  lunanerdderg
+[program] Copyright (C) [year] lunanerdderg
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
