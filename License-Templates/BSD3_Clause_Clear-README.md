@@ -12,7 +12,6 @@ You may view the The Clear BSD License [here](), but the TL;DR is that you can u
   
 ```
 [program] Copyright (c) [year] lunanerdderg
-All rights reserved.
 
 DISCLAIMER
 
