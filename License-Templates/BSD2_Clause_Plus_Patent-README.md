@@ -11,7 +11,7 @@ You may view the BSD-2-Clause Plus Patent License [here](), but the TL;DR is tha
   <summary>(Expand notice + Disclaimer)</summary>
   
 ```
-Copyright (c) [year] lunanerdderg
+[program] Copyright (c) [year] lunanerdderg
 
 DISCLAIMER
 
