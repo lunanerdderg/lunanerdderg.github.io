@@ -11,7 +11,7 @@ You may view the The Clear BSD License [here](), but the TL;DR is that you can u
   <summary>(Expand notice + Disclaimer)</summary>
   
 ```
-Copyright (c) [year] lunanerdderg
+[program] Copyright (c) [year] lunanerdderg
 
 DISCLAIMER
 
