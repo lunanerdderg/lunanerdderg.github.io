@@ -1,6 +1,6 @@
 # License
 
-You may view the The Clear BSD License [here](), but the TL;DR is that you can use this project for whatever you like except for patents, as long as:
+You may view the BSD 3-Clause Clear License [here](), but the TL;DR is that you can use this project for whatever you like except for patents, as long as:
 
 * You retain the copyright notice and disclaimer
 
