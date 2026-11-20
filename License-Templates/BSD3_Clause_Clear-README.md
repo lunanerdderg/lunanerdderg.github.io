@@ -1,3 +1,6 @@
+<sub>_[(How version numbering works in all my programs.)](https://github.com/lunanerdderg/lunanerdderg.github.io/blob/main/version-numbering.md)_</sub> | 
+<sub>_[(My policy on A.I. in my programs.)](https://github.com/lunanerdderg/lunanerdderg.github.io/blob/main/ai-use-policy.txt)_</sub>
+
 # License
 
 You may view the BSD 3-Clause Clear License [here](LICENSE), but the TL;DR is that you can use this project for whatever you like (except for patents), as long as:
