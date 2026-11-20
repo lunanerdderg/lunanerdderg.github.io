@@ -1,6 +1,6 @@
 # License
 
-You may view the BSD-2-Clause Plus Patent License [here](), but the TL;DR is that you can use this project for whatever you like, as long as:
+You may view the BSD-2-Clause Plus Patent License [here](LICENSE), but the TL;DR is that you can use this project for whatever you like, as long as:
 
 * You retain the license, (and if distributing in binary format, include it in documentation and other materials)
 * You don't engage in patent trolling

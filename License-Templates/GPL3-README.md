@@ -1,6 +1,6 @@
 # License
 
-You may view the GNU General Public License v3.0 [here](), but the TL;DR is that you can use this project for whatever you like, as long as:
+You may view the GNU General Public License v3.0 [here](LICENSE), but the TL;DR is that you can use this project for whatever you like, as long as:
 
 * You credit me by including a copyright notice and warranty information
 
